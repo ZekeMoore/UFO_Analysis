@@ -6,17 +6,17 @@ This analysis creates a HTML page that showcases an article on UFO sightings, pr
 ## Results
 To use or read this webpage, a reader will first see the webpage and article titles, as well as the article itself at the top of the page. This provides the background and introduction to the purpose of this webpage. 
 
-![Screenshot](https://github.com/aseo67/UFOs/blob/main/Screenshot_TopOfPage.png)
+![Screenshot](https://github.com/ZekeMoore/UFO_Analysis/blob/main/Images/Screenshot_TopOfPage.png)
 
 Following this top section, there is a "Filter Search" section provided at the bottom left-hand corner of the webpage, next to a table of data that displays the UFO sightings data collected. This can be filtered as needed, based on the sighting date, location (city, state, and country), and shape of the UFO sighting. This is a dynamic filter that will automatically apply the filters as they are entered into their respective input boxes to the left. Further notes on the event are provided in the rightmost column, next to information regarding the duration of the event (which are not part of the filters). 
 
  - For example, if we were to filter for a UFO sighting from 1/1/2010 in California, the following filters would be applied in the lefthand boxes, and the resulting table would be displayed. 
 
-   ![Screenshot](https://github.com/aseo67/UFOs/blob/main/Screenshot_ExampleFIlter2.png)
+   ![Screenshot](https://github.com/ZekeMoore/UFO_Analysis/blob/main/Images/Screenshot_ExampleFIlter2.png)
 
  - We can further narrow down this search, such as if we are looking for a sighting that occurred in in el cajon, and was shaped as a triangle - and the table will update automatically. 
 
-    ![Screenshot](https://github.com/aseo67/UFOs/blob/main/Screenshot_ExampleFilter.png) 
+    ![Screenshot](https://github.com/ZekeMoore/UFO_Analysis/blob/main/Images/Screenshot_ExampleFilter.png) 
 
 ## Summary
 One drawback of this webpage design is that the table is not fully accommodating for when readers would like to sift through a long list of data that extends the page. The column headers are not "locked" in place, so if the reader needs to remind themselves on what column refers to what kind fo data, they would need to scroll back up to the header row. If the design can be improved to allow a view within this table section to scroll within the page while locking the header row in place, that can help improve the readability and usability of the page. 
